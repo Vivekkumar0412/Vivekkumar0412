@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkumar0412&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkumar0412" /> </p>
 
-- 🌱 I’m currently learning **Nodejs,Expressjs,MongoDb**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vivekkumar0412](https://github.com/Vivekkumar0412)
 
-- 💬 Ask me about **Html,css,javascript,Nodejs,Expressjs,MongoDb**
+- 💬 Ask me about **Html,css,javascript,Nodejs,Expressjs,MongoDb,React js**
 
 - 📫 How to reach me **www.vivekkumar0412@gmail.com**
 
